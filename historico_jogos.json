@@ -1,0 +1,182 @@
+[
+    {
+        "nivel": "Fácil",
+        "regiao": "europa_ocidental",
+        "pontuacao": 1740,
+        "quantidade_respostas_certas": 18,
+        "total_perguntas": 21,
+        "percentagem": 85.7,
+        "ajudas_usadas": 2,
+        "respostas": [
+            {
+                "pais": "Vaticano",
+                "resposta_utilizador": "Dublin",
+                "resposta_correta": "Dublin",
+                "correto": false,
+                "pontos": 0,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Islândia",
+                "resposta_utilizador": "Helsínquia",
+                "resposta_correta": "Helsínquia",
+                "correto": false,
+                "pontos": 0,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Liechtenstein",
+                "resposta_utilizador": "Vaduz",
+                "resposta_correta": "Vaduz",
+                "correto": true,
+                "pontos": 70,
+                "usou_ajuda": true
+            },
+            {
+                "pais": "Andorra",
+                "resposta_utilizador": "Bruxelas",
+                "resposta_correta": "Bruxelas",
+                "correto": false,
+                "pontos": 0,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Bélgica",
+                "resposta_utilizador": "Bruxelas",
+                "resposta_correta": "Bruxelas",
+                "correto": true,
+                "pontos": 70,
+                "usou_ajuda": true
+            },
+            {
+                "pais": "Reino Unido",
+                "resposta_utilizador": "Londres",
+                "resposta_correta": "Londres",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "San Marino",
+                "resposta_utilizador": "San Marino",
+                "resposta_correta": "San Marino",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Luxemburgo",
+                "resposta_utilizador": "Luxemburgo",
+                "resposta_correta": "Luxemburgo",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Noruega",
+                "resposta_utilizador": "Oslo",
+                "resposta_correta": "Oslo",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Áustria",
+                "resposta_utilizador": "Viena",
+                "resposta_correta": "Viena",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Portugal",
+                "resposta_utilizador": "Lisboa",
+                "resposta_correta": "Lisboa",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Espanha",
+                "resposta_utilizador": "Madrid",
+                "resposta_correta": "Madrid",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Alemanha",
+                "resposta_utilizador": "Berlim",
+                "resposta_correta": "Berlim",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Irlanda",
+                "resposta_utilizador": "Dublin",
+                "resposta_correta": "Dublin",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Dinamarca",
+                "resposta_utilizador": "Copenhaga",
+                "resposta_correta": "Copenhaga",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Finlândia",
+                "resposta_utilizador": "Helsínquia",
+                "resposta_correta": "Helsínquia",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Holanda",
+                "resposta_utilizador": "Amsterdão",
+                "resposta_correta": "Amsterdão",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Itália",
+                "resposta_utilizador": "Roma",
+                "resposta_correta": "Roma",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "França",
+                "resposta_utilizador": "Paris",
+                "resposta_correta": "Paris",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Suécia",
+                "resposta_utilizador": "Estocolmo",
+                "resposta_correta": "Estocolmo",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            },
+            {
+                "pais": "Suíça",
+                "resposta_utilizador": "Berna",
+                "resposta_correta": "Berna",
+                "correto": true,
+                "pontos": 100,
+                "usou_ajuda": false
+            }
+        ],
+        "data": "2025-11-21 12:14:01"
+    }
+]
