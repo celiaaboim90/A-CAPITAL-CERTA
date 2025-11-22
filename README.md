@@ -114,14 +114,7 @@ A-CAPITAL-CERTA/
 
 ---
 
-## 📈 Funcionalidades Futuras
 
-- [ ] Sistema de ranking online
-- [ ] Modo multiplayer
-- [ ] Expansão para outros continentes
-- [ ] Interface gráfica (GUI)
-- [ ] Estatísticas detalhadas por país
-- [ ] Sistema de conquistas e badges
 
 ---
 
