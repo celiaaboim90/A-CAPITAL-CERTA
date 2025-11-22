@@ -1,4 +1,6 @@
-﻿# 🌍 A CAPITAL CERTA
+https://github.com/celiaaboim90/A-CAPITAL-CERTA
+  
+  🌍 A CAPITAL CERTA
 
 **Jogo de quiz interativo sobre as capitais da Europa!**
 
